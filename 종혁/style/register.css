@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  color: inherit;
+  text-decoration: none;
+}
+label,
+input {
+  display: block;
+}
+#userImg {
+  margin-bottom: 5px;
+}
+.re {
+  width: 80px;
+  height: 25px;
+  text-align: center;
+  line-height: 25px;
+  display: inline-block;
+  cursor: pointer;
+}
